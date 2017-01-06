@@ -1,5 +1,5 @@
 <?php
-    $monfichier = fopen('question.qs', 'r+');
+    $monfichier = fopen('test/questions.qs', 'r+');
     $stack = array();
     $content = "" ;
     $tabtheme = array();
